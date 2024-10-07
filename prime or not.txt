@@ -1,0 +1,21 @@
+3 5
+number:17 result:0
+3 start
+copy_number:0 divisor:2 count:0
+two:2 zero:0 one:1
+start:5 number two stop
+4 number divisor copy
+copy_num:7 number copy_number
+sub:2 copy_number divisor copy_number
+1 count one count
+5 copy_number divisor check
+3 sub
+check:4 copy_number zero stop
+1 divisor one divisor
+4 divisor count copy
+7 number copy_number
+sub2:2 copy_number divisor copy_number
+5 copy_number divisor check
+3 check
+copy:7 one result
+stop:9
