@@ -1,0 +1,26 @@
+3 5
+first_element_location:91 n:10
+7 first_element_location first
+4 n zero stop
+7 first first_v
+7 zero first_v:0
+1 count one count
+4 n one stop
+1 first one second
+7 second second_v
+7 one second_v:0
+1 count one count
+4 n two stop
+1 second one third
+copy:7 first first_t
+7 second second_t
+7 third third_t
+1 first_t:0 second_t:0 third_t:0
+1 count one count
+4 n count stop
+1 first one first
+1 second one second 
+1 third one third
+3 copy
+stop:9
+first:0 second:0 one:1 zero:0 two:2 count:0 third:0
