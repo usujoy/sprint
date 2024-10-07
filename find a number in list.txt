@@ -1,0 +1,16 @@
+3 7 
+first_element_location:42
+length:3 target:6 result:0
+4 length zero stop
+7 length count 
+7 first_element_location check
+check1:4 check:0 target copy
+4 count one stop
+add:1 check one check
+2 count one count
+3 check1
+copy:7 one result
+stop:9
+count:0
+zero:0 one:1
+4 7 6 7
