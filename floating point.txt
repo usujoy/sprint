@@ -1,0 +1,44 @@
+3 start
+number:35 divisor:3 result:r1 length:3
+start:7 number multy
+7 result result_v
+5 number divisor copy_z
+7 multy reminder
+sub:2 reminder divisor reminder
+1 quotient one quotient
+5 reminder divisor check
+3 sub
+check:4 reminder zero copy_2
+7 result result_c
+7 quotient result_c:0
+copy:7 reminder multy
+7 zero reminder
+7 zero quotient
+3 add
+copy_z:7 zero result
+add:1 multy reminder reminder
+1 count one count
+4 count ten sub2
+3 add
+sub2:2 reminder divisor reminder
+1 quotient one quotient
+5 reminder divisor check2
+3 sub2
+check2:4 reminder zero stop
+1 result_v one result_v
+7 result_v result_t
+7 quotient result_t:0
+1 count2 one count2
+4 count2 length copy3
+7 zero count
+3 copy
+copy3:7 result_v result_f
+7 quotient result_f:0
+stop:9
+copy_2:7 result result_x
+7 quotient result_x:0
+3 stop
+quotient:0 reminder:0 multy:0 
+count:0 count2:0 result_v:0
+one:1 zero:0 ten:10
+r1:0
