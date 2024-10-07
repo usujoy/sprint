@@ -1,0 +1,21 @@
+ 3 5 
+number:299 result:1 
+3 start
+zero:0 one:1 ten:10 stop:9
+reminder:0 quotient:0
+start:7 zero result
+5 number ten copy
+7 number reminder
+sub:2 reminder ten reminder
+1 quotient one quotient
+5 reminder ten add
+3 sub
+add:1 reminder result result
+5 quotient ten add2
+7 quotient reminder
+7 zero quotient
+3 sub
+copy:7 number result
+3 stop
+add2:1 quotient result  result
+3 stop
