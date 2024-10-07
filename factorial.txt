@@ -1,0 +1,17 @@
+3 start
+number:3 result:0
+start:3 check_equal
+fact:0 count1:0 addition:1 count2:0 zero:0 one:1
+check_equal:4 number zero stop
+add:1 count1 one count1
+add2:1 fact addition fact
+1 count2 one count2
+4 count1 count2 check
+3 add2
+check:4 count1 number copy
+7 zero count2
+7 fact addition
+7 zero fact
+3 add
+copy:7 fact result
+stop:9
